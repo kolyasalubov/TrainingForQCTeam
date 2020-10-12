@@ -1,8 +1,13 @@
 1.
 2.
 3.
+<<<<<<< HEAD
 4.Complex is better than complicated.
 5.
+=======
+4. Complex is better than complicated.
+5. Flat is better than nested.
+>>>>>>> d14f3c7b6e742939a594c3633ee325c0fde909c1
 6.
 7.Readability counts.
 8.
