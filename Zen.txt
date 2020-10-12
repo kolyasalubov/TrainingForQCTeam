@@ -1,9 +1,16 @@
 "Zen of Python"
-1.
-2.Explicit is better than implicit. 
-3.
+
+1.Beautiful is better than ugly.     
+2.
+3.Simple is better than complex. 
 4.Complex is better than complicated.
-5.
-6.
-7.
+5.Flat is better than nested.
+6.Sparse is better than dense.
+7.Readability counts.
 8.
+9.
+10.
+11. 
+12.
+13.
+14.
