@@ -1,1 +1,2 @@
 !!!"Zen of Python!!!"
+Flat is better than nested.
