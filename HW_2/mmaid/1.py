@@ -1,4 +1,3 @@
-# HW Ex.1
 string = """Beautiful is better than ugly.
 Explicit is better than implicit.
 Simple is better than complex.
@@ -20,7 +19,7 @@ If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!"""
 
 print(string.upper(),"\n")
-print(string.replace("i", "&"))
+print(string.replace("i", "&"),"\n")
 print("Better counter = ",string.count("better"),"\n")
 print("Never counter  = ", string.count("never"),"\n")
-print("Is counter = ", string.count("is"),"\n")
+print("Is counter = ", string.count("is"))
