@@ -21,9 +21,6 @@ Namespaces are one honking great idea -- let's do more of those!"""
 
 print(string.upper(),"\n")
 print(string.replace("i", "&"))
-
-string = string.split()
-
 print("Better counter = ",string.count("better"),"\n")
 print("Never counter  = ", string.count("never"),"\n")
 print("Is counter = ", string.count("is"),"\n")
