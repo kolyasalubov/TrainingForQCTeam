@@ -7,3 +7,4 @@ while index < len(list):
     index = index + 1
 print(list)
 print(type(list[0]))
+
