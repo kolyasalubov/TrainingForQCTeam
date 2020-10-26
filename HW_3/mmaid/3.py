@@ -11,4 +11,3 @@ else:
         fib.append(fib[i-1]+fib[i-2])
         i = i+1
     print(fib)
-    
