@@ -3,4 +3,3 @@ def enough(cap, on, wait):
         return wait - (cap - on)
     else:
         return 0
-        

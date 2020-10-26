@@ -4,4 +4,3 @@ def count_sheeps(sheep):
         if sheep[i] == True:
             count += 1
     return count
-    

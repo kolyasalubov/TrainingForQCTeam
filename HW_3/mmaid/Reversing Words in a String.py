@@ -3,4 +3,3 @@ def reverse(st):
     a.reverse()
     st = " ".join(a)
     return st
-    
