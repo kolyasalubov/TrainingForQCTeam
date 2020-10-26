@@ -10,3 +10,4 @@ while current_num + previous_num < number:
     previous_num = current_num
     current_num = current_num + temp
     print(f"{current_num}, ")
+
