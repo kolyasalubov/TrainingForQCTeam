@@ -1,6 +1,0 @@
-num = int(input("Type number "))
-factorial = 1
-while num != 1:
-    factorial *= num
-    num = num -1
-print(factorial)
