@@ -1,9 +1,9 @@
 #module 1 
 name= input ("what is your name?\n", )
-print ("Ok,", name.capitalize() , "how old are you?" )
-age = input ()
-print ("hmmm,", age, "it's perfect age",'where do you live')
-city = input ()
+print ("Ok,", name.capitalize() )
+age = input ("how old are you?\n",)
+print ("hmmm,", age, "it's perfect age")
+city = input ('where do you live\n',)
 print ("Summary:\n" , 'name =', name, "\n", 'age =', age , "\n",'city=', city.capitalize())
 
 #module2
