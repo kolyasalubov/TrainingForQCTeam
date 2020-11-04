@@ -1,0 +1,15 @@
+#part 1
+name = input("Wat is yor name?")
+years = input ("How old are you?")
+location = input ("Where do you live")
+print(f'Hello, {name}') 
+print(f'Your age is {years}')
+print(f'You live in {location}')
+#part 2
+a = int(input('Enter a:'))
+b = int(input('Enter b:'))
+print(f'a+b = {a+b}')
+print(f'a-b = {a-b}')
+print(f'a*b = {a*b}')
+print(f'a/b = {a/b}')
+print(f'a**b = {a**b}')
