@@ -18,8 +18,8 @@ If the implementation is hard to explain, it's a bad idea.
 If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!"""
 
+print("Better counter = ", string.count("better"),"\n")
+print("Never counter  = ", string.count("never"),"\n")
+print("Is counter = ", string.count("is"), "\n")
 print(string.upper(),"\n")
 print(string.replace("i", "&"),"\n")
-print("Better counter = ",string.count("better"),"\n")
-print("Never counter  = ", string.count("never"),"\n")
-print("Is counter = ", string.count("is"))

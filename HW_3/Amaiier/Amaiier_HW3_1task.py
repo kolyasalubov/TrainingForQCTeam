@@ -1,4 +1,4 @@
-num = int(input("Type number "))
+num = int(input("Enter a number: "))
 factorial = 1
 while num != 1:
     factorial *= num

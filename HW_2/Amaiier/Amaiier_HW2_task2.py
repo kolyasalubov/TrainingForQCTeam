@@ -1,4 +1,4 @@
-num = input("Type 4 signs number = ")
+num = input("Enter a number from 1000 to 9999 = ")
 lis = []
 for i in range(len(num)):
     lis.append(num[i])

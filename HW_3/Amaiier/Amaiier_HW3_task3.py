@@ -1,7 +1,7 @@
-ran = int(input("Quantity of Fib numbers = "))
+ran = int(input("How many Fib numbers do you want to see: = "))
 fib = [0]
 if ran == 0:
-    print("No Fib numbers")
+    print("There is no Fib numbers!")
 elif ran == 1:
     print(fib)
 else:
@@ -11,3 +11,4 @@ else:
         fib.append(fib[i-1]+fib[i-2])
         i = i+1
     print(fib)
+
