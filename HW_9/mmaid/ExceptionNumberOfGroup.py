@@ -1,8 +1,8 @@
 class ToSmallNumberGroupError(Exception):
     def __init__(self, data):
         self.data = data
-    def __str__(self, data):
-        return repr(data)
+    def __str__(self):
+        return repr(self.data)
 
 
 
