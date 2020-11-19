@@ -6,6 +6,7 @@ class MyError(Exception):
 
 def check_positive(number):
     try:
+        number = float(number)
         if number >= 1:
             return f"You input positive number: {number}"
         else:
@@ -14,4 +15,5 @@ def check_positive(number):
         return my.data
     except:
         return "Error type: ValueError!"
+
 
