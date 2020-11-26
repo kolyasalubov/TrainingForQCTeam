@@ -8,7 +8,7 @@ def s_triangle ():
     b = float(input('Enter b:  '))
     c = float(input('Enter c:  '))
     p = (a + b + c) / 2
-    s = math.sqrt(((p - a)*(p - b)*(p - c)) * p)
+    s = pow((((p - a)*(p - b)*(p - c)) * p), 0.5)
     print(f'Result is {s}')
     return s
 
